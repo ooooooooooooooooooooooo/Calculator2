@@ -1,0 +1,4 @@
+using namespace std;
+a = 12;
+b = 11;
+cout << a + b << endl;
